@@ -1,1 +1,1 @@
-# p2-taller2
+Prueba del sitio funcionando en archivo PNG "pruebaFunciona"
